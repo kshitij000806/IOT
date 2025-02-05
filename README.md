@@ -32,7 +32,7 @@ Contributions are welcome! If you have any IoT projects you'd like to share, fee
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the.
 
 ## Contact
 
